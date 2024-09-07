@@ -44,6 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=partikg&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=partikg&theme=radical" />
 </p>
